@@ -22,6 +22,9 @@ Basic CRUD Functionality. You should be able to:
 - POST delete/undo/:id
 
 
+## Database diagram
+<img width="431" alt="db_shopify" src="https://user-images.githubusercontent.com/21370009/172885646-9d311752-a98e-4555-9ce6-b5f06831cc91.png">
+
 ## Usage
 ### Install app packages
 ```
