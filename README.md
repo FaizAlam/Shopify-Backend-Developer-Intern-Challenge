@@ -14,16 +14,23 @@ Basic CRUD Functionality. You should be able to:
 
 
 ## Routes 
-'''
- GET product/
- POST product/
- POST edit/
- GET delete/
- POST delete/
- POST delete/undo/:id
-'''
+- GET product/
+- POST product/
+- POST edit/
+- GET delete/
+- POST delete/
+- POST delete/undo/:id
+
 
 ## Usage
-Install app packages
+### Install app packages
+```
+npm install express mongoose body-parser dotenv
+```
+### Install Nodemon For Development
+```
+npm install -D nodemon
+```
+Add mongoURI to connect to the database
 
 
